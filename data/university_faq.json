@@ -1,0 +1,114 @@
+[
+  {
+    "id": "faq-01",
+    "category": "IT & Network",
+    "question": "How do I connect to the university Wi-Fi network?",
+    "answer": "To connect to campus Wi-Fi, select the 'eduroam' network from your Wi-Fi settings. When prompted, log in using your full university email address (e.g., studentID@university.edu) and your campus password. For visitors or guests without university credentials, select the 'Campus-Guest' network, open a web browser, and complete the self-registration guest portal to receive a 24-hour access code.",
+    "keywords": ["wifi", "wi-fi", "eduroam", "guest", "internet", "network", "connect", "wireless"]
+  },
+  {
+    "id": "faq-02",
+    "category": "Campus Cards & Access",
+    "question": "How do I get a replacement student ID card (CampusCard) if I lose mine?",
+    "answer": "If you lose your CampusCard, first deactivate it immediately through the CampusCard Online portal to prevent unauthorized charges or building access. To obtain a replacement card, visit the Campus Card Office in Student Center Room 105 during business hours (Monday–Friday, 8:30 AM – 4:30 PM). Bring a valid government-issued photo ID (driver's license or passport). A $20 replacement fee applies and can be paid via credit card or charged to your student account.",
+    "keywords": ["id card", "campuscard", "lost id", "replacement card", "badge", "student id", "fee"]
+  },
+  {
+    "id": "faq-03",
+    "category": "IT & Security",
+    "question": "How do I reset my campus password or set up Duo Multi-Factor Authentication (MFA)?",
+    "answer": "To reset your password, navigate to identity.university.edu/reset and follow the self-service verification prompts using your recovery phone number or alternate email. To enroll a new phone or token in Duo MFA, log into identity.university.edu/duo with your university credentials and select 'Add a new device'. If you are locked out or lost your registered phone, contact the IT Helpdesk directly at (555) 019-2834 for identity verification and temporary bypass codes.",
+    "keywords": ["password", "reset", "duo", "mfa", "2fa", "two factor", "multi-factor", "authentication", "locked out"]
+  },
+  {
+    "id": "faq-04",
+    "category": "Registrar & Academics",
+    "question": "What is the deadline for adding or dropping a course for the current semester?",
+    "answer": "For the standard 15-week fall/spring semester, the deadline to add a class or drop a class with a 100% tuition refund is the end of the second week of classes (Friday at 11:59 PM). The final deadline to withdraw from a class with a grade of 'W' (no refund) is the end of the tenth week of the semester. All add/drop transactions must be completed through the Student Portal at portal.university.edu.",
+    "keywords": ["add", "drop", "course", "deadline", "withdraw", "registration", "classes", "schedule", "grade w"]
+  },
+  {
+    "id": "faq-05",
+    "category": "Student Accounts & Billing",
+    "question": "What payment methods are accepted for tuition, and when is tuition due?",
+    "answer": "Tuition for the fall semester is due August 15th, and spring tuition is due January 15th. Payments can be made online via the Student Account Center using electronic check (e-Check, with 0% transaction fee), major credit cards (subject to a 2.85% processing fee), or international wire transfers through Flywire. The university also offers a 4-month interest-free installment payment plan with an enrollment fee of $45 per semester.",
+    "keywords": ["tuition", "payment", "due date", "bill", "billing", "fees", "installment plan", "e-check", "flywire"]
+  },
+  {
+    "id": "faq-06",
+    "category": "Library Services",
+    "question": "What are the borrowing limits and loan periods for university library books?",
+    "answer": "Undergraduate students may borrow up to 25 books for 4 weeks at a time, while graduate students and faculty can borrow up to 50 books for 16 weeks (full semester). Books may be renewed up to three times online through the Library Catalog portal, provided another patron has not placed a hold request on the item. Course reserve textbooks are restricted to 2-hour in-library use only.",
+    "keywords": ["library", "books", "borrow", "loan period", "renew", "limit", "reserves", "checkout"]
+  },
+  {
+    "id": "faq-07",
+    "category": "IT & Printing",
+    "question": "How does student printing work, and how much printing quota do I get?",
+    "answer": "Every registered student receives a complimentary printing quota of $30 per semester (equivalent to 300 single-sided black-and-white pages at $0.10/page, or 100 color pages at $0.30/page). You can upload documents to print from your personal laptop or mobile phone using webprint.university.edu, and release your print job at any campus multifunction printer by tapping your CampusCard.",
+    "keywords": ["printing", "print", "quota", "webprint", "papercut", "printer", "copies", "balance"]
+  },
+  {
+    "id": "faq-08",
+    "category": "Health & Wellness",
+    "question": "How do I schedule an appointment at the Student Health Center or waive the student health insurance?",
+    "answer": "To book an appointment for primary care, immunization, or counseling, log into the Patient Portal at health.university.edu or call (555) 019-4325. If you already have comparable health insurance coverage, you must submit an annual health insurance waiver online at healthwaiver.university.edu before September 1st for the fall semester or January 25th for the spring semester to remove the charge from your tuition bill.",
+    "keywords": ["health center", "doctor", "appointment", "medical", "insurance", "waiver", "counseling", "clinic"]
+  },
+  {
+    "id": "faq-09",
+    "category": "Campus Housing & Facilities",
+    "question": "How do I submit a maintenance request for dorm rooms or residence halls?",
+    "answer": "For routine maintenance issues (such as plumbing leaks, heating/AC problems, or lighting fixtures), submit a work order through the Housing Portal at housing.university.edu/maintenance. Maintenance staff typically respond within 24 to 48 hours on weekdays. For urgent after-hours emergencies (such as flooding, gas odor, or power outages), call the 24/7 Housing Emergency Duty Officer at (555) 019-9111 immediately.",
+    "keywords": ["housing", "dorm", "maintenance", "repair", "work order", "facilities", "heating", "plumbing"]
+  },
+  {
+    "id": "faq-10",
+    "category": "Parking & Transportation",
+    "question": "How do I purchase a campus parking permit and where can students park?",
+    "answer": "Student parking permits must be purchased online each semester through the Parking Services portal at parking.university.edu. Resident students are eligible for Green Zone lots near residence halls ($220/semester), and commuter students may purchase Yellow Zone permits ($160/semester). Daily visitor parking passes are available for $8/day via ParkMobile app or automated kiosks in visitor lots.",
+    "keywords": ["parking", "permit", "car", "vehicle", "parking pass", "green zone", "yellow zone", "commuter"]
+  },
+  {
+    "id": "faq-11",
+    "category": "Academic Advising",
+    "question": "How do I schedule an appointment with my academic advisor?",
+    "answer": "Academic advising appointments can be booked through Navigate Student (navigate.university.edu) or through the Navigate mobile app. Select 'Schedule an Appointment', choose 'Academic Advising', and select your assigned advisor based on your declared major. Walk-in advising hours are held on Wednesdays from 1:00 PM to 4:00 PM in University Hall Room 200.",
+    "keywords": ["advising", "advisor", "academic advisor", "navigate", "schedule appointment", "major", "degree planning"]
+  },
+  {
+    "id": "faq-12",
+    "category": "Career Services",
+    "question": "How can I get my resume reviewed or schedule a mock interview at the Career Center?",
+    "answer": "The Career Center offers 30-minute one-on-one appointments for resume critiques, cover letter assistance, and mock interviews. Bookings are made through Handshake at university.joinhandshake.com under 'Career Center > Appointments'. Drop-in resume review hours are also available Monday through Thursday from 1:00 PM to 3:00 PM at the Career Hub in Student Center Room 220.",
+    "keywords": ["career", "resume", "interview", "mock interview", "handshake", "jobs", "internships", "career center"]
+  },
+  {
+    "id": "faq-13",
+    "category": "IT & Labs",
+    "question": "Where are the campus computer labs located, and what software is available?",
+    "answer": "General-purpose computer labs are located in Science Hall Room 120, Library 2nd Floor West, and Engineering Building Room 302. Science Hall and Library labs are open 24/7 with CampusCard badge swipe. All lab computers are equipped with Windows 11 / macOS, Microsoft Office 365, MATLAB, Python Anaconda, Adobe Creative Cloud, SPSS, and AutoCAD. Remote access to lab software is also available via virtualdesktop.university.edu.",
+    "keywords": ["computer lab", "labs", "software", "matlab", "python", "virtual desktop", "library lab", "computers"]
+  },
+  {
+    "id": "faq-14",
+    "category": "Student Services",
+    "question": "How do I rent a locker on campus?",
+    "answer": "Day-use and semester-long lockers are available in the Student Center and Recreation Facility. Semester rentals cost $25 and can be reserved at the Student Center Information Desk or online at studentlife.university.edu/lockers during the first two weeks of classes. You must bring your own combination lock or purchase one at the Campus Bookstore.",
+    "keywords": ["locker", "lockers", "rent locker", "student center", "storage"]
+  },
+  {
+    "id": "faq-15",
+    "category": "Registrar & Records",
+    "question": "How do I request an official transcript or check my graduation audit?",
+    "answer": "Official electronic and paper transcripts can be ordered 24/7 online via the National Student Clearinghouse through the registrar's website at registrar.university.edu/transcripts. Electronic transcripts cost $5 and are delivered within 2 hours. To review your graduation degree audit and check completed credit requirements, open DegreeWorks via your Student Portal at portal.university.edu.",
+    "keywords": ["transcript", "official transcript", "graduation", "degree audit", "degreeworks", "records", "diploma"]
+  },
+  {
+    "id": "faq-16",
+    "category": "Campus Safety & Services",
+    "question": "Where is the campus Lost and Found office located and how do I claim an item?",
+    "answer": "The central Campus Lost and Found is managed by Campus Safety and is located in the Public Safety Building (Building 40, Room 102). Found items are logged daily in the online inventory database at safety.university.edu/lost-found. To claim an item, you must present your CampusCard or government ID and provide an accurate description or unlock passcode for electronic devices.",
+    "keywords": ["lost and found", "lost item", "missing item", "claim", "campus safety", "found item"]
+  }
+]
